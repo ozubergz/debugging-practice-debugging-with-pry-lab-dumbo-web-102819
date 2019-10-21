@@ -1,4 +1,3 @@
-require 'pry'
 
 def snake_it_up(string)
   if string[0] == "s"
@@ -10,5 +9,3 @@ def snake_it_up(string)
     string
   end
 end
-
-snake_it_up("surprise!")
